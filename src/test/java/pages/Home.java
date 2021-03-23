@@ -31,7 +31,7 @@ public class Home extends Base {
         txtInputSearch.sendKeys(product); // escreve na caixa de texto
 
     }
-    // Feature --> Steps --> searchWith...
+    // Feature --> Steps --> searchWith... --> search
 
     public void searchWithMagnifierButton(String product){   // pesquisarComCliquenaLupa
         search(product);
